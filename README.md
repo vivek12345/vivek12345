@@ -41,6 +41,3 @@ I’m an engineering leader and hands-on AI/ML builder, focused on deeply unders
 
 ---
 
-> “Build it. Understand it. Share it.”  
-> — Vivek Nayyar
-
