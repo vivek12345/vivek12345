@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek Nayyar
 
-### 🚀 Engineering Leader | 🧠 AI Builder | 🔍 RAG, Agents, and LLM Architectures
+### 🚀 Engineering Leader | 🧠 AI Builder
 
 I’m an engineering leader and hands-on AI/ML builder, focused on deeply understanding and implementing the nuts and bolts of modern LLMs. From **training tokenizers** and **building BPE from scratch**, to **implementing transformers line-by-line**, I love demystifying AI—one project and one workshop at a time.
 
