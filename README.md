@@ -36,7 +36,7 @@ I’m an engineering leader and hands-on AI/ML builder, focused on deeply unders
 
 - 📺 [YouTube](https://www.youtube.com/@viveknayyar)
 - 📝 [LinkedIn](https://www.linkedin.com/in/viveknayyar)
-- 🐦 [Twitter / X](https://twitter.com/vivekcodes) *(if you use one)*
+- 🐦 [Twitter / X](https://twitter.com/vivekcodes)
 - 📷 [Substack](https://viveknayyar09.substack.com/) *(for AI content)*
 
 ---
