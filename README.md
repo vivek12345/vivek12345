@@ -34,7 +34,7 @@ I’m an engineering leader and hands-on AI/ML builder, focused on deeply unders
 
 ## 🔗 Let's Connect
 
-- 📺 [YouTube](https://www.youtube.com/@localobaat)
+- 📺 [YouTube](https://youtube.com/@locallobaat)
 - 📝 [LinkedIn](https://www.linkedin.com/in/viveknayyar)
 - 🐦 [Twitter / X](https://twitter.com/vivekcodes)
 - 📷 [Substack](https://viveknayyar09.substack.com/) *(for AI content)*
