@@ -22,7 +22,7 @@ I’m an engineering leader and hands-on AI/ML builder, focused on deeply unders
 
 ## 🎓 Workshops & Knowledge Sharing
 
-- 🎥 **YouTube Channel** → [@VivekNayyar](https://www.youtube.com/@viveknayyar)  
+- 🎥 **YouTube Channel** → [@locallobaat](https://youtube.com/@locallobaat)
   I create short explainers and tutorials on AI topics like tokenization, transformers, and building your own RAG pipeline.  
   <sub>Recent videos include “No code whatsapp bot” and “Chat with any CSV using langchain”</sub>
 
